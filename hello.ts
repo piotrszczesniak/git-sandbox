@@ -1,2 +1,2 @@
 const helloMessage = 'hello people!';
-const boo = 'boo';
+const boo = 'foo boo';
